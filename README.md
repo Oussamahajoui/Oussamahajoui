@@ -17,7 +17,7 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="#" title="Portfolio Coming Soon">
+  <a href="https://devoussama.netlify.app/" title="Portfolio Link">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
