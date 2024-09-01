@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋 I am Oussama Hajoui</h1>
+<h1 align="center">Hi there👋 I am Oussama </h1>
 <p>I’m a software engineer who thrives on solving puzzles, whether it’s debugging code or exploring the mysteries of the universe. My toolkit includes Python, JavaScript, React, and a bunch of other cool tech—plus, I’ve dabbled in machine learning and AWS.
 
 When I’m not immersed in code, you’ll find me hitting the gym, discovering new anime, or diving into a physics documentary. I love combining my passion for tech with a bit of curiosity and fun.</p>
