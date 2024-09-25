@@ -78,15 +78,22 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
         <img src="https://github.com/user-attachments/assets/873b8e67-82e6-4fe7-a76e-b4f25a97e488" width="100%" alt="100Devs Blog"/>
       </a>
     </td>
-    <td width="50%" valign="top">
+	<td width="50%" valign="top">
+      <a target="_blank" href="https://github.com/Oussamahajoui/Nike_store">Nike Store</a>
+      <br />
+      <a target="_blank" href="https://github.com/Oussamahajoui/Nike_store">
+        <img src="https://github.com/user-attachments/assets/f7e54ff6-911b-4260-8415-f5ae0df0d38a" width="100%" alt="Nike Store"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+	  <td width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website/">Garry's Florist website</a>
       <br />
       <a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website">
         <img src="https://github.com/user-attachments/assets/7a83446f-4fdf-4f6f-bf3e-8976765d72d3" width="100%" alt="Garry's Florist website"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">Tips Splitting App</a>
       <br />
@@ -94,12 +101,14 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
         <img src="https://github.com/user-attachments/assets/ee2060db-72b9-46c0-b352-f480483f8284" width="100%" alt="Tips Splitting App"/>
       </a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+<!-- <tr> to Adjust later
+    <td align="center" width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator/">Mortgage Repayment Calculator</a>
       <br />
       <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator">
         <img src="https://github.com/user-attachments/assets/526aef96-bc83-4612-a777-a8e92e8fbdb3" width="100%" alt="Mortgage Repayment Calculator"/>
       </a>
     </td>
-  </tr>
+  </tr> -->
 </table>
