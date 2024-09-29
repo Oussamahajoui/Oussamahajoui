@@ -71,11 +71,11 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
 <h3 align="left">Few projects:</h3>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
-      <a target="_blank" href="https://github.com/Oussamahajoui/MERN_100Devs_Blog">MERN_100Devs_Blog</a>
+     <td width="50%" valign="top">
+      <a target="_blank" href="https://github.com/Oussamahajoui/wheyspy/">WheySpy App</a>
       <br />
-      <a target="_blank" href="https://github.com/Oussamahajoui/MERN_100Devs_Blog">
-        <img src="https://github.com/user-attachments/assets/873b8e67-82e6-4fe7-a76e-b4f25a97e488" width="100%" alt="100Devs Blog"/>
+      <a target="_blank" href="https://github.com/Oussamahajoui/wheyspy/">
+        <img src="https://github.com/user-attachments/assets/3bd585cb-cea5-4e53-ae48-e1e8954d5aec" width="100%" alt="WheySpy App"/>
       </a>
     </td>
 	<td width="50%" valign="top">
@@ -94,6 +94,23 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
         <img src="https://github.com/user-attachments/assets/7a83446f-4fdf-4f6f-bf3e-8976765d72d3" width="100%" alt="Garry's Florist website"/>
       </a>
     </td>
+	  <td width="50%" valign="top">
+      <a target="_blank" href="https://github.com/Oussamahajoui/MERN_100Devs_Blog">MERN_100Devs_Blog</a>
+      <br />
+      <a target="_blank" href="https://github.com/Oussamahajoui/MERN_100Devs_Blog">
+        <img src="https://github.com/user-attachments/assets/873b8e67-82e6-4fe7-a76e-b4f25a97e488" width="100%" alt="100Devs Blog"/>
+      </a>
+    </td>
+   
+  </tr>
+<tr> to Adjust later
+    <td align="center" width="50%" valign="top">
+      <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator/">Mortgage Repayment Calculator</a>
+      <br />
+      <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator">
+        <img src="https://github.com/user-attachments/assets/526aef96-bc83-4612-a777-a8e92e8fbdb3" width="100%" alt="Mortgage Repayment Calculator"/>
+      </a>
+    </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">Tips Splitting App</a>
       <br />
@@ -102,13 +119,4 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
       </a>
     </td>
   </tr>
-<!-- <tr> to Adjust later
-    <td align="center" width="50%" valign="top">
-      <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator/">Mortgage Repayment Calculator</a>
-      <br />
-      <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator">
-        <img src="https://github.com/user-attachments/assets/526aef96-bc83-4612-a777-a8e92e8fbdb3" width="100%" alt="Mortgage Repayment Calculator"/>
-      </a>
-    </td>
-  </tr> -->
 </table>
