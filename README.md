@@ -103,7 +103,7 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
     </td>
    
   </tr>
-<tr> to Adjust later
+<tr>
     <td align="center" width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator/">Mortgage Repayment Calculator</a>
       <br />
