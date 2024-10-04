@@ -71,14 +71,14 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
 <h3 align="left">Few projects:</h3>
 <table bordercolor="#66b2b2">
   <tr>
-     <td width="50%" valign="top">
+     <td align="center" width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/wheyspy/">WheySpy App</a>
       <br />
       <a target="_blank" href="https://github.com/Oussamahajoui/wheyspy/">
         <img src="https://github.com/user-attachments/assets/3bd585cb-cea5-4e53-ae48-e1e8954d5aec" width="100%" alt="WheySpy App"/>
       </a>
     </td>
-	<td width="50%" valign="top">
+	<td align="center" width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/Nike_store">Nike Store</a>
       <br />
       <a target="_blank" href="https://github.com/Oussamahajoui/Nike_store">
@@ -87,14 +87,14 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
     </td>
   </tr>
   <tr>
-	  <td width="50%" valign="top">
+	<td align="center" width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website/">Garry's Florist website</a>
       <br />
       <a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website">
         <img src="https://github.com/user-attachments/assets/7a83446f-4fdf-4f6f-bf3e-8976765d72d3" width="100%" alt="Garry's Florist website"/>
       </a>
     </td>
-	  <td width="50%" valign="top">
+	<td align="center" width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/MERN_100Devs_Blog">MERN_100Devs_Blog</a>
       <br />
       <a target="_blank" href="https://github.com/Oussamahajoui/MERN_100Devs_Blog">
@@ -111,7 +111,7 @@ When I’m not immersed in code, you’ll find me hitting the gym, discovering n
         <img src="https://github.com/user-attachments/assets/526aef96-bc83-4612-a777-a8e92e8fbdb3" width="100%" alt="Mortgage Repayment Calculator"/>
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td align="center" width="50%" valign="top">
       <a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">Tips Splitting App</a>
       <br />
       <a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">
